@@ -94,7 +94,7 @@ As mentioned, Sass was used for the styling of a project. No styling libraries w
 
 #### About Page
 
-<img width="825" alt="Screenshot 2022-01-03 at 15 51 08" src="https://user-images.githubusercontent.com/89992629/147953455-553a0f6a-0cc2-495f-a339-0eafae429a25.png">
+<img width="794" alt="Screenshot 2022-01-07 at 16 41 12" src="https://user-images.githubusercontent.com/89992629/148576515-74b319d3-cf23-4939-8fdd-9b58956159e2.png">
 
 # Wins & Blockers
 
