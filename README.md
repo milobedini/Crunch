@@ -6,7 +6,7 @@ Crunch is a fun number-guzzling app that was pair coded (with [Simon Clemson](ht
 
 ## Deployed -> [Crunch](https://crunch-demo.netlify.app/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bedb34ed-f10e-4570-ae3b-dc566b1c18ad/deploy-status)](https://app.netlify.com/sites/crunch-app/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a44c7cba-8e88-43f3-bc4b-29d91344a41f/deploy-status)](https://app.netlify.com/sites/crunch-demo/deploys)
 
 Unfortunately, the Numbers API that we used only has an http address, meaning the CORS request is refused by browsers in the deployed version. Please see the above link for a demo version of the web-app.
 
