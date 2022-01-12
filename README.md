@@ -75,7 +75,7 @@ For our year fact section, we had the idea to allow the user to enter as many ye
 
 ## 3) Styling
 
-As mentioned, Sass was used for the styling of a project. No styling libraries were used. After the functionality of the app was completed, we created the about page and designed the Crunch logo. Due to the strict timeframe of the project we kept the design fairly minimalistic but clean.
+As mentioned, Sass was used for the styling of a project. No styling libraries were used. After the functionality of the app was completed, we created the about page and designed the Crunch logo. Due to the strict time frame of the project, we kept the design fairly minimalistic but clean.
 
 # Crunch - Screenshot Walkthrough
 
